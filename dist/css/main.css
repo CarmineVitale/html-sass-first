@@ -1,0 +1,24 @@
+h2,
+h3 {
+  color: red;
+  margin: 10px;
+}
+
+p {
+  font-size: 30px;
+}
+
+body {
+  background: rgba(255, 0, 0, 0.4);
+}
+
+span {
+  color: white;
+  font-style: italic;
+}
+
+h1 {
+  color: white;
+}
+
+

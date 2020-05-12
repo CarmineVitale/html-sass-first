@@ -1,0 +1,24 @@
+$colori-titoli: red;
+$font-paragraph: 30px; 
+$margini : 10px;
+$col: white;
+$italic :italic;
+
+h2,
+h3 {
+    color: $colori-titoli;
+    margin: $margini;
+}
+p {
+    font-size: $font-paragraph;
+}
+body {
+    background: rgba($colori-titoli, .4)
+}
+span {
+    color: $col;
+    font-style: $italic;
+}
+h1 {
+    color: $col;
+}
